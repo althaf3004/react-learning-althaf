@@ -28,14 +28,6 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <div>
-        <h2>Name: Althaf</h2>
-        <h3>Age:23</h3>
-        <p>Description:Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error accusantium 
-          necessitatibus quidem modi quam repellendus numquam deserunt ipsa animi officia 
-          aperiam, mollitia natus blanditiis perspiciatis? Sunt nam accusantium dolorum autem!
-        </p>
-      </div>
     </>
   )
 }
